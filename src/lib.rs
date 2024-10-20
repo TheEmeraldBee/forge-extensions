@@ -2,5 +2,3 @@
 pub mod utils;
 
 pub mod border;
-
-pub mod buf_set;
